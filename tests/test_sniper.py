@@ -34,7 +34,3 @@ def test_sniper():
         counter += 1
 
     assert(my_counter == 72)
-
-
-if __name__ == "__main__":
-    test_sniper()
